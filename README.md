@@ -16,7 +16,9 @@
 
 ## 👨‍💻 Hakkımda
 
-**Kırıkkale Üniversitesi**'nde **Kontrol ve Otomasyon Teknolojisi** öğrencisiyim. Meslek lisesindeki Elektrik Pano Montörlüğü eğitimimin üzerine, sahada aktif rol alarak pano kurulumu, zayıf akım sistemleri ve teknik arıza çözümleri gibi alanlarda uygulama tecrübesi edindim. Teorik bilgiyi saha pratikleriyle harmanlayarak, bu birikimi **C**, **Python** ve modern **mobil/web** teknolojileriyle destekleyip gömülü sistemler, IoT ve AI odaklı çözümler geliştiriyorum.
+**Kırıkkale Üniversitesi** **Kontrol ve Otomasyon Teknolojisi** programında eğitim görmekteyim. Mesleki eğitim hayatıma Abidinpaşa Mesleki ve Teknik Anadolu Lisesi Elektrik Pano Montörlüğü dalında başlamış; edindiğim teorik altyapıyı, sahadaki aktif görevlerimle pekiştirme fırsatı bulmuşumdur. Pano kurulumu, zayıf akım sistemleri ve teknik arıza çözümleri başta olmak üzere birçok alanda uygulamalı deneyim kazandım.
+
+Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kendimi bu alanda sürekli geliştirmeye açık bir profil çizmekteyim. **C** ve **Python** programlama dillerinin yanı sıra modern **mobil ve web teknolojileri** üzerinde çalışarak; gömülü sistemler, IoT ve yapay zeka odaklı projeler geliştirmekteyim.
 
 ---
 

@@ -16,7 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Control and Automation Technology** student at **Kırıkkale University**. Building on my vocational high school education in **Electrical Panel Assembly**, I have gained hands-on field experience in panel installation, low-current systems, and technical troubleshooting. I blend theoretical knowledge with practical field experience, supported by **C**, **Python**, and modern **mobile/web** technologies to develop solutions in embedded systems, IoT, and AI.
+I am currently studying in the **Control and Automation Technology** program at **Kırıkkale University**. My vocational journey began at Abidinpaşa Vocational and Technical Anatolian High School in the Electrical Panel Assembly department, where I built a solid theoretical foundation that I later reinforced through active field roles. I have gained hands-on experience in panel installation, low-current systems, and technical troubleshooting, among other areas.
+
+While I am relatively new to the software development field, I maintain a strong commitment to continuous learning and self-improvement. I am currently working with **C**, **Python**, and modern **mobile and web technologies**, developing projects focused on embedded systems, IoT, and artificial intelligence.
 
 ---
 
