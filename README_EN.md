@@ -89,7 +89,6 @@ While I am relatively new to the software development field, I maintain a strong
 | **[Pixi AI Assistant v3](pixi-ai-assistant-v3/)** | ESP32-S2 based AI voice assistant with NTP clock, live exchange rates, crypto prices, task reminders via Google Apps Script, and Gemini API integration. | ESP32, Arduino, C++ |
 | **[OpenCode Mobile](OpenCode-Mobile/)** | Mobile web client for the OpenCode AI coding platform with landing page, main app interface, and widget support. | Nitron, HTML/CSS/JS |
 | **[OpenCode Android](opencode-android/)** | Native Android client for OpenCode — an AI coding agent with chat interface, terminal emulator, file explorer, and onboarding. | Kotlin, Jetpack Compose |
-| **[Open Design](open-design/)** | Open-source, local-first alternative to Claude Design / Figma. Auto-detects 16+ coding agent CLIs and uses 31 composable skills with 72 brand-grade design systems. | Next.js, Electron, TypeScript |
 
 ### 📚 Education & Exam Prep
 
@@ -136,14 +135,7 @@ While I am relatively new to the software development field, I maintain a strong
 | **[pixiZ v1](pixiZ-v1/)** | Universal multi-tool remote (Flipper Zero inspired) with 65+ capabilities: Wi-Fi pentesting, BLE attacks, IR learning, BadUSB, password manager, QR generator, and optional Sub-GHz/NFC/LoRa modules. | ESP32, Arduino, C++ |
 | **[IR Remote](ir-remote/)** | Universal IR remote for ESP32 — TFT display, IR learning, 50-remote storage in NVS flash, 6 IR protocol support. | ESP32, Arduino, C++ |
 | **[MicroUno](microuno/)** | Arduino/AVR microcontroller simulator for Android — full AVR emulation in native C with code editor, circuit view, and serial terminal. | Kotlin, C/C++, NDK, CMake |
-| **[ArduSim](ArduSim/)** | Arduino simulator project scaffold for Android (work in progress). | Kotlin, Compose |
 
-### 💻 Desktop & Other
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[RestKontrol POS](restkontrol/)** | Windows-based Point of Sale desktop application for restaurants. | Electron |
-| **[APK Editor Studio](APK%20Editor%20Studio%20v1.7.2/)** | Qt5-based desktop tool for editing Android APK files with 40+ language translations. | C++, Qt5 |
 
 ---
 

@@ -89,7 +89,6 @@ Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kend
 | **[Pixi AI Assistant v3](pixi-ai-assistant-v3/)** | ESP32-S2 tabanlı AI sesli asistan — NTP saat, canlı döviz kuru, kripto fiyatları, Google Apps Script ile görev hatırlatıcı ve Gemini API entegrasyonu. | ESP32, Arduino, C++ |
 | **[OpenCode Mobile](OpenCode-Mobile/)** | OpenCode AI platformu için mobil web istemcisi — açılış sayfası, ana uygulama arayüzü ve widget desteği. | Nitron, HTML/CSS/JS |
 | **[OpenCode Android](opencode-android/)** | OpenCode için native Android istemcisi — sohbet arayüzü, terminal emülatörü, dosya gezgini ve onboarding ekranları. | Kotlin, Jetpack Compose |
-| **[Open Design](open-design/)** | Claude Design / Figma'ya açık kaynak alternatif. 16+ kodlama ajanı CLI'sini otomatik algılar, 31 beceri ve 72 marka tasarım sistemi. | Next.js, Electron, TypeScript |
 
 ### 📚 Ehliyet Sınavı
 
@@ -136,14 +135,7 @@ Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kend
 | **[pixiZ v1](pixiZ-v1/)** | Flipper Zero esinli çok amaçlı uzaktan kumanda — 65+ yetenek: Wi-Fi pentest, BLE saldırıları, IR öğrenme, BadUSB, parola yöneticisi, QR oluşturucu ve isteğe bağlı Sub-GHz/NFC/LoRa modülleri. | ESP32, Arduino, C++ |
 | **[IR Remote](ir-remote/)** | ESP32 için evrensel IR kumanda — TFT ekran, IR öğrenme, NVS flash'ta 50 kumanda hafızası, 6 IR protokol desteği. | ESP32, Arduino, C++ |
 | **[MicroUno](microuno/)** | Android için Arduino/AVR mikrodenetleyici simülatörü — native C'de tam AVR emülasyonu, kod editörü, devre görünümü ve seri terminal. | Kotlin, C/C++, NDK, CMake |
-| **[ArduSim](ArduSim/)** | Android için Arduino simülatörü proje iskeleti (çalışma devam ediyor). | Kotlin, Compose |
 
-### 💻 Masaüstü & Diğer
-
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| **[RestKontrol POS](restkontrol/)** | Windows için restoran satış noktası (POS) masaüstü uygulaması. | Electron |
-| **[APK Editor Studio](APK%20Editor%20Studio%20v1.7.2/)** | Qt5 tabanlı Android APK düzenleme aracı, 40+ dil desteği. | C++, Qt5 |
 
 ---
 
