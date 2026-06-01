@@ -147,15 +147,6 @@ While I am relatively new to the software development field, I maintain a strong
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azerenes&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azerenes&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</div>
-
----
-
 ## 👤 References
 
 | Name | Title | Contact |

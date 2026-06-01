@@ -147,15 +147,6 @@ Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kend
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azerenes&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azerenes&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</div>
-
----
-
 ## 👤 Referanslar
 
 | İsim | Ünvan | İletişim |
