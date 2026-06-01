@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/azerenes/My-Cv"><img src="https://img.shields.io/badge/CV-View%20My%20CV-4285F4?style=for-the-badge&logo=googledocs" /></a>
-  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/Email-muhammetenesevci@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/Email-muhammetenesevci%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
   <a href="tel:+905076574948"><img src="https://img.shields.io/badge/Phone-+90%20507%20657%204948-25D366?style=for-the-badge&logo=whatsapp" /></a>
   <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-E34F26?style=for-the-badge&logo=googlemaps" />
   <br />
@@ -169,7 +169,7 @@ While I am relatively new to the software development field, I maintain a strong
 ## 📬 Contact
 
 <div align="center">
-  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/Email-muhammetenesevci@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/Email-muhammetenesevci%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
   <a href="tel:+905076574948"><img src="https://img.shields.io/badge/Phone-+90%20507%20657%204948-25D366?style=for-the-badge&logo=whatsapp" /></a>
   <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=for-the-badge&logo=github" /></a>
 </div>
