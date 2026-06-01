@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/azerenes/My-Cv"><img src="https://img.shields.io/badge/CV-CV'mi%20G%C3%B6r%C3%BCnt%C3%BCle-4285F4?style=for-the-badge&logo=googledocs" /></a>
-  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/E-posta-muhammetenesevci%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/E--posta-muhammetenesevci%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
   <a href="tel:+905076574948"><img src="https://img.shields.io/badge/Telefon-+90%20507%20657%204948-25D366?style=for-the-badge&logo=whatsapp" /></a>
   <img src="https://img.shields.io/badge/Konum-T%C3%BCrkiye-E34F26?style=for-the-badge&logo=googlemaps" />
   <br />
@@ -169,7 +169,7 @@ Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kend
 ## 📬 İletişim
 
 <div align="center">
-  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/E-posta-muhammetenesevci%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/E--posta-muhammetenesevci%40gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
   <a href="tel:+905076574948"><img src="https://img.shields.io/badge/Telefon-+90%20507%20657%204948-25D366?style=for-the-badge&logo=whatsapp" /></a>
   <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=for-the-badge&logo=github" /></a>
 </div>
