@@ -1,36 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammet%20Enes%20EVC%C4%B0&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammet%20Enes%20EVC%C4%B0&fontSize=45&fontAlignY=30&animation=fadeIn&desc=Elektrik%20Teknisyeni%20%7C%20Kontrol%20ve%20Otomasyon%20%7C%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici&descAlignY=52&descSize=18" />
 </div>
 
 <p align="center">
   <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/azerenes/My-Cv"><img src="https://img.shields.io/badge/CV-View%20CV-4285F4?style=for-the-badge&logo=googledocs" /></a>
+  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/Email-muhammetenesevci@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="tel:+905076574948"><img src="https://img.shields.io/badge/Phone-+90%20507%20657%204948-25D366?style=for-the-badge&logo=whatsapp" /></a>
   <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-E34F26?style=for-the-badge&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/Projects-20%2B-success?style=for-the-badge&logo=githubactions" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer who builds real-world solutions across **mobile**, **web**, **IoT**, and **AI** domains. From crafting Android apps with Jetpack Compose to designing ESP32-based hardware tools, I love turning ideas into functional, polished products.
+I'm a Control and Automation Technology student at **Kırıkkale Üniversitesi** with a background in Electrical Panel Assembly from vocational high school. I combine hands-on field experience — panel installation, low-current systems, and troubleshooting — with software development skills in **C**, **Python**, and modern **mobile/web frameworks**. I'm passionate about building real-world solutions across **embedded systems**, **IoT**, **mobile apps**, and **AI-powered tools**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
+
+| Period | Program | Institution |
+|--------|---------|-------------|
+| 2024 – 2026 | **Kontrol ve Otomasyon Teknolojisi** (Ön Lisans) | Kırıkkale Üniversitesi |
+| 2019 – 2023 | **Elektrik Elektronik Bölümü / Pano Montörlüğü Dalı** | Abidinpaşa Mesleki ve Teknik Anadolu Lisesi |
+
+---
+
+## 💼 Work Experience
+
+| Period | Position | Company |
+|--------|----------|---------|
+| 2023 – 2025 | **Elektrik Teknisyeni** | Öz-Er Mühendislik Elektrik İnş. San. ve Tic. Ltd. Şti. |
+| 2023 – 2023 | **Stajyer** | Sondem Elektrik / Ankara |
+| 2022 – 2023 | **Stajyer** | Fatih Elektrik Aydınlatma / Ankara Ulus |
+| 2015 – 2020 | **Elektrik Çıraklığı – Kalfalığı** | Çeşitli firmalar |
+
+> **At Öz-Er Mühendislik**, I worked at an expert level on beton boru, desant, panel assembly and adjustment, camera systems, low-current systems, fault troubleshooting, tray cabling, and lighting installations.
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Mobile** | Kotlin, Jetpack Compose, React Native (Expo), Capacitor, Nitron |
-| **Embedded / IoT** | ESP32, Arduino, AVR, IR, BLE, Wi-Fi |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, Next.js |
-| **Backend** | Node.js, Python, Google Apps Script |
+| Category | Skills |
+|----------|--------|
+| **Panel & Electrical** | Panel Assembly, Low-Current Systems, Electrical Installations, Control Circuits, Motor Circuits |
+| **Programming** | C, Python, Kotlin, JavaScript, TypeScript, HTML/CSS |
+| **Embedded / IoT** | ESP32, Arduino, AVR, IR, BLE, Wi-Fi, Proteus |
+| **Mobile** | Jetpack Compose, React Native (Expo), Capacitor, Nitron |
+| **Design & CAD** | Basic AutoCAD |
 | **AI / LLM** | Gemini API, Agent-based workflows |
-| **Tools** | Git, Gradle, CMake, pnpm, Electron |
 
 </div>
+
+---
+
+## 📜 Certificates
+
+| Year | Certificate | Provider |
+|------|------------|----------|
+| 2025 | **C Programming Language** | BTK Akademi |
+| 2025 | **Introduction to Data Science** | BTK Akademi |
+
+---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇹🇷 Turkish | Native |
+| 🇬🇧 English | B1 (Intermediate) |
 
 ---
 
@@ -102,15 +143,6 @@ I'm a passionate software developer who builds real-world solutions across **mob
 
 ---
 
-## 🎯 Current Focus
-
-- 📱 Building production-quality Android apps with Jetpack Compose & Material 3
-- 🔧 Developing IoT solutions with ESP32 and various wireless protocols
-- 🤖 Integrating AI/LLM capabilities into mobile and embedded platforms
-- 🎨 Exploring agent-native design workflows with open-source tools
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,10 +152,22 @@ I'm a passionate software developer who builds real-world solutions across **mob
 
 ---
 
+## 👤 References
+
+| Name | Title | Contact |
+|------|-------|---------|
+| **Tamer Özbek** | Elektrik Mühendisi | 0533 313 14 40 |
+| **Nuri Alper Metin** | Öğretim Görevlisi | 0546 692 88 84 · nurialpermetin@kku.edu.tr |
+| **Prof. Dr. R. Gökhan Türeci** | Kontrol ve Otomasyon Bölüm Başkanı | 0532 659 49 36 · turici@kku.edu.tr |
+
+---
+
 ## 📬 Contact
 
 <div align="center">
-  <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:muhammetenesevci@gmail.com"><img src="https://img.shields.io/badge/Email-muhammetenesevci@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="tel:+905076574948"><img src="https://img.shields.io/badge/Phone-+90%20507%20657%204948-25D366?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://github.com/azerenes"><img src="https://img.shields.io/badge/GitHub-azerenes-181717?style=for-the-badge&logo=github" /></a>
 </div>
 
 ---
