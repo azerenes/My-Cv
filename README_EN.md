@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I am currently studying in the **Control and Automation Technology** program at **Kırıkkale University**. My vocational journey began at Abidinpaşa Vocational and Technical Anatolian High School in the Electrical Panel Assembly department, where I built a solid theoretical foundation that I later reinforced through active field roles. I have gained hands-on experience in panel installation, low-current systems, and technical troubleshooting, among other areas.
+As an electrical technician and control automation technician, I combine 5+ years of hands-on field experience with software development skills. Beyond my expertise in panel assembly, low-current systems, and fault troubleshooting, I develop embedded systems, IoT, and AI-focused projects using C, Python, Kotlin, and JavaScript.
 
-While I am relatively new to the software development field, I maintain a strong commitment to continuous learning and self-improvement. I am currently working with **C**, **Python**, and modern **mobile and web technologies**, developing projects focused on embedded systems, IoT, and artificial intelligence.
+While continuing my education in the Control and Automation Technology program at Kırıkkale University, I have brought numerous projects to life — from ESP32-based AI assistants and mobile applications to legal practice management and augmented reality solutions. My goal is to merge my electrical and automation background with technology to create industrial solutions.
 
 ---
 
@@ -40,7 +40,11 @@ While I am relatively new to the software development field, I maintain a strong
 | 2022 – 2023 | **Intern** | Fatih Elektrik Aydınlatma / Ankara Ulus |
 | 2015 – 2020 | **Electrical Apprenticeship – Journeymanship** | Various companies |
 
-> At **Öz-Er Mühendislik**, I worked at an expert level on concrete pipe, switchgear, panel assembly and adjustment, camera systems, low-current systems, fault troubleshooting, cable trays, cabling, and lighting installations.
+At **Öz-Er Mühendislik**, I performed concrete pipe, switchgear, and panel installation along with adjustment operations. I gained field experience in camera systems, low-current installations, and fault troubleshooting. I played an active role in industrial projects by carrying out cable tray and cabling work, lighting system installation and maintenance.
+
+At **Sondem Elektrik**, I worked as an intern in electrical installation and panel assembly processes, reinforcing my professional knowledge through hands-on fieldwork.
+
+At **Fatih Elektrik Aydınlatma**, I interned in lighting system installation and electrical contracting, gaining practical experience while working with field teams in compliance with occupational health and safety regulations.
 
 ---
 
@@ -67,6 +71,11 @@ While I am relatively new to the software development field, I maintain a strong
 |------|------------|----------|
 | 2025 | **C Programming Language** | BTK Akademi |
 | 2025 | **Introduction to Data Science** | BTK Akademi |
+| 2025 | **Creating an Effective LinkedIn Profile** | BTK Akademi |
+| 2025 | **Communication and Network Management** | BTK Akademi |
+| 2025 | **Stress Management and Mindfulness** | BTK Akademi |
+| 2025 | **Career-Threatening Approaches** | BTK Akademi |
+| 2025 | **Public Speaking and Effective Presentation Techniques** | BTK Akademi |
 
 ---
 

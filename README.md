@@ -16,9 +16,9 @@
 
 ## 👨‍💻 Hakkımda
 
-**Kırıkkale Üniversitesi** **Kontrol ve Otomasyon Teknolojisi** programında eğitim görmekteyim. Mesleki eğitim hayatıma Abidinpaşa Mesleki ve Teknik Anadolu Lisesi Elektrik Pano Montörlüğü dalında başlamış; edindiğim teorik altyapıyı, sahadaki aktif görevlerimle pekiştirme fırsatı bulmuşumdur. Pano kurulumu, zayıf akım sistemleri ve teknik arıza çözümleri başta olmak üzere birçok alanda uygulamalı deneyim kazandım.
+Elektrik teknisyeni ve kontrol otomasyon teknikeri olarak, sahada kazandığım 5+ yıllık uygulamalı deneyimi yazılım geliştirme becerilerimle birleştiriyorum. Pano montajı, zayıf akım sistemleri ve arıza çözümleri konusundaki uzmanlığımın yanı sıra; C, Python, Kotlin ve JavaScript ile gömülü sistemler, IoT ve yapay zeka odaklı projeler geliştiriyorum.
 
-Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kendimi bu alanda sürekli geliştirmeye açık bir profil çizmekteyim. **C** ve **Python** programlama dillerinin yanı sıra modern **mobil ve web teknolojileri** üzerinde çalışarak; gömülü sistemler, IoT ve yapay zeka odaklı projeler geliştirmekteyim.
+Kırıkkale Üniversitesi Kontrol ve Otomasyon Teknolojisi programında eğitimime devam ederken, ESP32 tabanlı AI asistanlardan mobil uygulamalara, hukuk bürosu yönetiminden artırılmış gerçeklik çözümlerine kadar pek çok projeyi hayata geçirdim. Amacım, elektrik ve otomasyon altyapımı teknolojiyle birleştirerek endüstriyel çözümler üretmek.
 
 ---
 
@@ -40,7 +40,11 @@ Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kend
 | 2022 – 2023 | **Stajyer** | Fatih Elektrik Aydınlatma / Ankara Ulus |
 | 2015 – 2020 | **Elektrik Çıraklığı – Kalfalığı** | Çeşitli firmalar |
 
-> **Öz-Er Mühendislik**'te beton borusu, desant, pano kurulumu ve reglajı, kamera sistemleri, zayıf akım, arıza çözümleri, tava, kablaj ve aydınlatma işleri gibi çeşitli alanlarda uzmanlık düzeyinde çalışmalar gerçekleştirdim.
+**Öz-Er Mühendislik**'te beton borusu, desant ve pano kurulumu ile reglaj işlemlerini gerçekleştirdim. Kamera sistemleri, zayıf akım tesisatı ve arıza çözümleri konusunda saha deneyimi kazandım. Tava ve kablo çekimi, aydınlatma sistemleri kurulumu ve bakımını yaparak endüstriyel projelerde aktif rol aldım.
+
+**Sondem Elektrik**'te elektrik tesisatı ve pano montajı süreçlerinde stajyer olarak görev aldım. Sahadaki uygulamalı çalışmalarla mesleki bilgimi pekiştirdim.
+
+**Fatih Elektrik Aydınlatma**'da aydınlatma sistemleri kurulumu ve elektrik tesisatı alanında staj yaptım. Saha ekipleriyle birlikte çalışarak iş sağlığı ve güvenliği kuralları çerçevesinde uygulamalı deneyim edindim.
 
 ---
 
@@ -67,6 +71,11 @@ Yazılım geliştirme alanına son dönemde adım atmış olmakla birlikte, kend
 |-----|-----------|-----------|
 | 2025 | **C Programlama Dili** | BTK Akademi |
 | 2025 | **Veri Bilimine Giriş** | BTK Akademi |
+| 2025 | **LinkedIn'de Etkili Profil Oluşturma** | BTK Akademi |
+| 2025 | **İletişim ve Network Yönetimi** | BTK Akademi |
+| 2025 | **Stresle Başa Çıkma ve Bilinçli Farkındalık** | BTK Akademi |
+| 2025 | **Kariyeri Tehdit Eden Yaklaşımlar** | BTK Akademi |
+| 2025 | **Topluluk Önünde Konuşma ve Etkili Sunum Teknikleri** | BTK Akademi |
 
 ---
 
